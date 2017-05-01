@@ -1,0 +1,1 @@
+g++ -std=gnu++11 -ggdb `pkg-config --cflags --libs /usr/local/Cellar/opencv3/3.2.0/lib/pkgconfig/opencv.pc` /System/Library/Frameworks/GLUT.framework/GLUT /System/Library/Frameworks/OpenGL.framework/OpenGL -o hello_cv /Users/walterstevenbabcock/Desktop/gunVision/main.cpp
